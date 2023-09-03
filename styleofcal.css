@@ -19,9 +19,9 @@ body{
     display: flex;
 }
 .calculator{
-    background: #06e4ac;
+    background: #09021a;
     padding: 10px;
-    box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.219);
+    box-shadow: 0px 0px 10px 3px rgba(206, 9, 9, 0.219);
     margin:auto;
 
     border-radius: 10px;
@@ -36,13 +36,13 @@ body{
     font-family: Nunito;
     font-weight: 700;
     font-size:1.7em;
-    color: white;
+    color: rgb(255, 255, 255);
     cursor: pointer;
     margin: 10px;
 
 }
 .calculator form input.NumpadBtns{
-    background: #1a011f;
+    background: #cd64e2;
 }
 form .display{
     display: flex;
@@ -56,8 +56,8 @@ form .display input{
     box-shadow: none;
     padding:20px;
     box-sizing: border-box;
-    background: #b14bca; 
-    box-shadow: 0 0 10px 3px #dd4c4c33;
+    background: #d575ec; 
+    box-shadow: 0 0 10px 3px #fd4f4f33;
     height:80px;
     color: white;
 }
